@@ -1,2 +1,2 @@
 # Hash_table
-implementing hash tables in C
+Implementing hash tables in C
